@@ -1,9 +1,9 @@
 
-<<<<<<< HEAD
+
 # Rama1
-=======
+
 # Rama2
->>>>>>> rama3
+
 def function1(params):
 	var = 0
 	for i in range(0,10):
